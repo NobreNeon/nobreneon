@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá, eu sou Rafael 👋
 
-<!--
-**NobreNeon/nobreneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é meu perfil secundário no GitHub, utilizado principalmente para projetos privados, trabalhos específicos e colaborações profissionais.
 
-Here are some ideas to get you started:
+Alguns repositórios podem permanecer privados por questões de confidencialidade, propriedade intelectual ou restrições de acesso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Hi, I'm Rafael 👋
+
+This is my secondary GitHub profile, primarily used for private, project-specific, and collaborative development work.
+
+Some repositories may remain private due to confidentiality, intellectual property, or access restrictions.
+
+---
+
+Perfil principal / Main profile
+
+Para conhecer meus projetos públicos e trabalhos técnicos, visite meu perfil principal.
+For my public projects and technical work, visit my main profile.
+
+github.com/RafaSantos04
